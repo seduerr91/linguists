@@ -40,7 +40,7 @@ img::-moz-selection { background: transparent; }
 
 #mainNav .navbar-toggler { font-size: 12px; right: 0; padding: 13px; text-transform: uppercase; color: white; border: 0; background-color: #259aef; font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
 
-#mainNav .navbar-brand { color: #259aef; font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+#mainNav .navbar-brand { color: #fff; text-shadow: 1px 2px 4px #4d5763; font-weight: bold; font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover { color: #0f80d2; }
 
