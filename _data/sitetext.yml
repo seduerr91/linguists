@@ -102,30 +102,30 @@ en: &DEFAULT_EN
         role: "CEO & Head of AI"
         image: assets/img/team/seb.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://github.com/seduerr91
+            icon: fab fa-github
+          - url: mailto:sebastian@resonaid.co
+            icon: fas fa-envelope
           - url: https://www.linkedin.com/in/sebastianduerr/
             icon: fab fa-linkedin-in
       - name: "Teddy"
         role: "CRO"
         image: assets/img/team/teddy.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: mailto:teddy@resonaid.co
+            icon: fas fa-envelope
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/krystian-teodor-lange/
             icon: fab fa-linkedin-in
       - name: "Krzysiek"
         role: "CTO"
         image: assets/img/team/krzysiek.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://github.com/netizer
+            icon: fab fa-github
+          - url: mailto:krzysiek@resonaid.co
+            icon: fas fa-envelope
           - url: https://linkedin.com/in/krzysiek-herod
             icon: fab fa-linkedin-in
 

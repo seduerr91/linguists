@@ -1,13 +1,13 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Resonaid
-  subtitle: Resonaid with your recipient.
-  thumbnail: assets/img/portfolio/resonaid.jpg
+  subtitle: Resonate with your recipient but let AI do the work. 
+  thumbnail: assets/img/portfolio/resonaid.png
   
 #what displays when the item is clicked:
 title: Resonaid
 subtitle: Tired of tedious outreach? Generate personalized sales messages with Resonaid.
-image: assets/img/portfolio/resonaid.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/resonaid.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
