@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Seb"
-        role: "CEO & Head of AI"
+        role: "Head of AI"
         image: assets/img/team/seb.jpg
         social:
           - url: https://github.com/seduerr91
